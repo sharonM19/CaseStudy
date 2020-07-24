@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: myRestfulWebservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: siya
+Implementation-Vendor-Id: com.target
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+
